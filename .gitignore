@@ -1,0 +1,13 @@
+# Idea
+.idea
+*.iml
+
+# Maven
+target/
+
+# Vim
+*.swp
+
+java-8-lambdas-exercises/*.iml
+java-8-lambdas-exercises/*.idea
+
